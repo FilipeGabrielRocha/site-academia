@@ -6,7 +6,7 @@ export const testimonialsData = [
   {
     image: image1,
     review:
-      "I made the right choice by choosing the Fitclub and by choosing the right plan and program I already achieved my ideal body!",
+      "Fiz a escolha certa de frenquentar o Fitclub e o plano e programa certo, já alcancei meu corpo ideal!",
     name: 'MATHEW HENDRICKSON',
     status : 'ENTREPRENEUR'
   },
